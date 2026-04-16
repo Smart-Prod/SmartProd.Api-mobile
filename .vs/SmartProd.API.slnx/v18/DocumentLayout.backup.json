@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\0201392411044\\source\\repos\\smartprod.api\\smartprod.api.server\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\0201392411044\\source\\repos\\smartprod.api\\smartprod.api.server\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Produto.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:49:08.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Usuarios.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Usuarios.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:45:53.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

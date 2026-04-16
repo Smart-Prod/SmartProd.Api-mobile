@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmartProd.API.AppHost/SmartProd.API.AppHost.csproj" />
+  <Project Path="SmartProd.API.Server/SmartProd.API.Server.csproj" />
+</Solution>
