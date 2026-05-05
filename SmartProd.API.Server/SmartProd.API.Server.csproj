@@ -7,6 +7,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\**" />
+    <Compile Remove="DTOs\**" />
+    <Compile Remove="Endpoints\**" />
+    <Compile Remove="Services\**" />
+    <Content Remove="Data\**" />
+    <Content Remove="DTOs\**" />
+    <Content Remove="Endpoints\**" />
+    <Content Remove="Services\**" />
+    <EmbeddedResource Remove="Data\**" />
+    <EmbeddedResource Remove="DTOs\**" />
+    <EmbeddedResource Remove="Endpoints\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <None Remove="Data\**" />
+    <None Remove="DTOs\**" />
+    <None Remove="Endpoints\**" />
+    <None Remove="Services\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.1" />
     <PackageReference Include="Microsoft.Extensions.Http.Resilience" Version="10.1.0" />
     <PackageReference Include="Microsoft.Extensions.ServiceDiscovery" Version="10.1.0" />
@@ -15,12 +34,5 @@
     <PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.14.0" />
     <PackageReference Include="OpenTelemetry.Instrumentation.Http" Version="1.14.0" />
     <PackageReference Include="OpenTelemetry.Instrumentation.Runtime" Version="1.14.0" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DTOs\" />
-    <Folder Include="Data\" />
-    <Folder Include="Endpoints\" />
-    <Folder Include="Services\" />
   </ItemGroup>
 </Project>

@@ -1,14 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\",
+  "WorkspaceRootPath": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\0201392411044\\source\\repos\\smartprod.api\\smartprod.api.server\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\enum\\ordemproducaostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\enum\\ordemproducaostatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\0201392411044\\source\\repos\\smartprod.api\\smartprod.api.server\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\enum\\notafiscalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\enum\\notafiscalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\enum\\notafiscaltipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\enum\\notafiscaltipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\models\\notafiscalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\notafiscalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\models\\notafscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\notafscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\enum\\tipomovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\enum\\tipomovimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\notefatec\\desktop\\junio\\smartprod.api-mobile\\smartprod.api.server\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Produto.cs",
-              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Produto.cs",
-              "ToolTip": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Produto.cs",
-              "RelativeToolTip": "SmartProd.API.Server\\Models\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Title": "OrdemProducaoStatus.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\OrdemProducaoStatus.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\enum\\OrdemProducaoStatus.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\OrdemProducaoStatus.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\enum\\OrdemProducaoStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:49:08.135Z",
+              "WhenOpened": "2026-05-05T14:35:22.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Usuarios.cs",
-              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.Server\\Models\\Usuarios.cs",
-              "RelativeToolTip": "SmartProd.API.Server\\Models\\Usuarios.cs",
+              "Title": "NotaFiscalStatus.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\NotaFiscalStatus.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\enum\\NotaFiscalStatus.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\NotaFiscalStatus.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\enum\\NotaFiscalStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-16T14:45:53.077Z",
+              "WhenOpened": "2026-05-05T14:35:09.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotaFiscalTipo.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\NotaFiscalTipo.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\enum\\NotaFiscalTipo.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\NotaFiscalTipo.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\enum\\NotaFiscalTipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:34:29.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotaFiscalItem.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:32:27.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotaFscal.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFscal.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\NotaFscal.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFscal.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\NotaFscal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T14:30:37.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoMovimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\TipoMovimentacao.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\enum\\TipoMovimentacao.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\enum\\TipoMovimentacao.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\enum\\TipoMovimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:53:41.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\notefatec\\Desktop\\junio\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T13:52:37.478Z",
               "EditorCaption": ""
             }
           ]
