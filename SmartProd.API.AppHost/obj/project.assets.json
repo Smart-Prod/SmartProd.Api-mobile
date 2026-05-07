@@ -3400,11 +3400,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.AppHost\\SmartProd.API.AppHost.csproj",
+      "projectUniqueName": "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.AppHost\\SmartProd.API.AppHost.csproj",
       "projectName": "SmartProd.API.AppHost",
-      "projectPath": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.AppHost\\SmartProd.API.AppHost.csproj",
+      "projectPath": "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.AppHost\\SmartProd.API.AppHost.csproj",
       "packagesPath": "C:\\Users\\0201392411044\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0201392411044\\source\\repos\\SmartProd.API\\SmartProd.API.AppHost\\obj\\",
+      "outputPath": "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.AppHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

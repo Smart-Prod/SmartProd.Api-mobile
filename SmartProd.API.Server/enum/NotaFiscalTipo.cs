@@ -1,6 +1,8 @@
-﻿namespace SmartProd.API.Server.internal enum
+﻿namespace SmartProd.API.Server.Enum
 {
-    public class NotaFiscalTipo
-{
-}
+    public enum NotaFiscalTipo
+    {
+        ENTRADA,
+        SAIDA
+    }
 }

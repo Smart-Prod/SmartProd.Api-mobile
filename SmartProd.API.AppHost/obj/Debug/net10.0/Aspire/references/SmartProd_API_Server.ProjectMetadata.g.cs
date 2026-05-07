@@ -15,7 +15,7 @@ public class SmartProd_API_Server : global::Aspire.Hosting.IProjectMetadata
     /// <summary>
     /// The path to the SmartProd_API_Server project.
     /// </summary>
-    public string ProjectPath => """C:\Users\0201392411044\source\repos\SmartProd.API\SmartProd.API.Server\SmartProd.API.Server.csproj""";
+    public string ProjectPath => """C:\Users\0201392411044\Desktop\SmartProd.Api-mobile\SmartProd.API.Server\SmartProd.API.Server.csproj""";
 
     /// <summary>
     /// Gets a value indicating whether building the project before running it should be suppressed.

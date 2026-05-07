@@ -11,10 +11,22 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b85c16f5-82dd-4992-8165-fe3f2d3ae7f9")]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Users\\0201392411044\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1." +
+    "0\\tools\\dcp.exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Users\\0201392411044\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1." +
+    "0\\tools\\ext\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\0201392411044\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\13.1." +
+    "0\\tools\\ext\\bin\\")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "SmartProd.API.AppHost.csproj")]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\0201392411044\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\13.1.0\\tools\\" +
+    "Aspire.Dashboard.exe")]
+[assembly: System.Reflection.AssemblyMetadataAttribute("apphostprojectbaseintermediateoutputpath", "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.AppHost\\obj\\")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartProd.API.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c435a2005e32c8a0b6f591483c3f8671ee347f74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e43bde03c2f6dbd6b9fe3ec077c6708fd3f1cd5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartProd.API.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartProd.API.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

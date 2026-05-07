@@ -1,14 +1,11 @@
-﻿namespace SmartProd.API.Server.internal enum
-{
-    /// <summary>
-    /// Represents the possible statuses of a production order
-    /// </summary>
+﻿namespace SmartProd.API.Server.Enum
+{   
     public enum OrdemProducaoStatus
-{
-        planejada,
-        em_producao,
-        pausada,
-        concluida,
-        cancelada
+    {
+        PLANEJADA,
+        EM_PRODUCAO,
+        PAUSADA,
+        CONCLUIDA,
+        CANCELADA
     }
 }

@@ -17,5 +17,5 @@ public class SmartProd_API_AppHost
     /// <summary>
     /// The path to the Aspire Host project.
     /// </summary>
-    public static string ProjectPath => """C:\Users\0201392411044\source\repos\SmartProd.API\SmartProd.API.AppHost""";
+    public static string ProjectPath => """C:\Users\0201392411044\Desktop\SmartProd.Api-mobile\SmartProd.API.AppHost""";
 }

@@ -1,10 +1,10 @@
-﻿namespace SmartProd.API.Server.internal enum
+﻿namespace SmartProd.API.Server.Enum
 {
-    public class TipoMovimentacao
+    public enum TipoMovimentacao
     {
-        Entrada,
-        Saida,
-        Producao,
-        Consumo
+        ENTRADA,
+        SAIDA,
+        PRODUCAO,
+        CONSUMO
     }
 }
