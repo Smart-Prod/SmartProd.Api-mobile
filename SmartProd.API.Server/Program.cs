@@ -1,5 +1,19 @@
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        policy =>
+        {
+            policy.AllowAnyOrigin()    // Troque para AllowOrigins do seu front em produção!
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
+builder.Services.AddControllers();
+
+
 // Add service defaults & Aspire client integrations.
 builder.AddServiceDefaults();
 
@@ -10,6 +24,8 @@ builder.Services.AddProblemDetails();
 builder.Services.AddOpenApi();
 
 var app = builder.Build();
+
+
 
 // Configure the HTTP request pipeline.
 app.UseExceptionHandler();
@@ -40,6 +56,10 @@ api.MapGet("weatherforecast", () =>
 app.MapDefaultEndpoints();
 
 app.UseFileServer();
+
+app.UseCors(); // Ativar CORS
+
+app.MapControllers();
 
 app.Run();
 

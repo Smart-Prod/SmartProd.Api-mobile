@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net10.0": {
       "Microsoft.AspNetCore.OpenApi/10.0.1": {
@@ -1032,23 +1032,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\0201392411044\\.nuget\\packages\\": {},
+    "C:\\Users\\Pc-Junio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\SmartProd.API.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\SmartProd.API.Server.csproj",
       "projectName": "SmartProd.API.Server",
-      "projectPath": "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\SmartProd.API.Server.csproj",
-      "packagesPath": "C:\\Users\\0201392411044\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0201392411044\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\obj\\",
+      "projectPath": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\SmartProd.API.Server.csproj",
+      "packagesPath": "C:\\Users\\Pc-Junio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\0201392411044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pc-Junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1062,6 +1062,7 @@
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -1076,10 +1077,11 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net10.0": {
+        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
@@ -1134,7 +1136,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -1557,7 +1559,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'OpenTelemetry.Api' 1.14.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-g94r-2vxg-569j",
+      "message": "Package 'OpenTelemetry.Api' 1.14.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-g94r-2vxg-569j",
       "libraryId": "OpenTelemetry.Api",
       "targetGraphs": [
         "net10.0"
@@ -1567,7 +1569,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'OpenTelemetry.Exporter.OpenTelemetryProtocol' 1.14.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-4625-4j76-fww9",
+      "message": "Package 'OpenTelemetry.Exporter.OpenTelemetryProtocol' 1.14.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4625-4j76-fww9",
       "libraryId": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
       "targetGraphs": [
         "net10.0"
@@ -1577,7 +1579,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'OpenTelemetry.Exporter.OpenTelemetryProtocol' 1.14.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-mr8r-92fq-pj8p",
+      "message": "Package 'OpenTelemetry.Exporter.OpenTelemetryProtocol' 1.14.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-mr8r-92fq-pj8p",
       "libraryId": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
       "targetGraphs": [
         "net10.0"
@@ -1587,7 +1589,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "O pacote 'OpenTelemetry.Exporter.OpenTelemetryProtocol' 1.14.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-q834-8qmm-v933",
+      "message": "Package 'OpenTelemetry.Exporter.OpenTelemetryProtocol' 1.14.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-q834-8qmm-v933",
       "libraryId": "OpenTelemetry.Exporter.OpenTelemetryProtocol",
       "targetGraphs": [
         "net10.0"
