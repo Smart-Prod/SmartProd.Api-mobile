@@ -1,3 +1,7 @@
 <Solution>
+  <Project Path="../../source/repos/SmartProd-web/smartprod-web/Smartprod-web.esproj">
+    <Build />
+    <Deploy />
+  </Project>
   <Project Path="SmartProd.API.Server/SmartProd.API.Server.csproj" />
 </Solution>

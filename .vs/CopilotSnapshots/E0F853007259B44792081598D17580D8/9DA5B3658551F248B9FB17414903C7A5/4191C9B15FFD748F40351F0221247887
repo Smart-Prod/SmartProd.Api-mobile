@@ -1,0 +1,14 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace SmartProd.API.Server.DTOs
+{
+    public class NotaFiscalItemCreateDto
+    {
+        [Required]
+        public int ProductId { get; set; }
+        [Required]
+        public int Quantity { get; set; }
+        [Required]
+        public decimal Value { get; set; }
+    }
+}
