@@ -1,0 +1,46 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using SmartProd.API.Server.DTOs;
+using SmartProd.API.Server.Serveces;
+
+namespace SmartProd.API.Server.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class ProductionOrderController : ControllerBase
+    {
+        private readonly ProductionOrderService _service;
+
+        public ProductionOrderController(ProductionOrderService service)
+        {
+            _service = service;
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateOrder([FromBody] OrdemProducaoCreateDto dto)
+        {
+            try
+            {
+                var result = await _service.CreateOrderAsync(dto);
+                return StatusCode(201, new { message = "Ordem de produção criada com sucesso!", result });
+            }
+            catch (System.Exception ex)
+            {
+                return BadRequest(new { error = ex.Message });
+            }
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> GetAllOrders()
+        {
+            try
+            {
+                var orders = await _service.GetAllOrdersAsync();
+                return Ok(new { message = "Ordens listadas com sucesso!", orders });
+            }
+            catch (System.Exception ex)
+            {
+                return StatusCode(500, new { error = ex.Message });
+            }
+        }
+    }
+}

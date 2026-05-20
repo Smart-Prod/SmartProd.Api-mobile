@@ -1,0 +1,15 @@
+﻿namespace SmartProd.API.Server.Models
+{
+    public class NotaFiscalItem
+    {
+        public string? Id { get; set; }
+        public string? NotaFiscalId { get; set; }
+        public string? ProductId { get; set; }
+        public int Quantity { get; set; }
+        public decimal Value { get; set; }
+
+        // Propriedades de navegação
+        public NotaFiscal? NotaFiscal { get; set; }
+        public Produto? Produto { get; set; }
+    }
+}

@@ -1,0 +1,17 @@
+﻿
+
+namespace SmartProd.API.Server.Models
+{
+    
+    public class OrdemProducao
+    {
+        public int Id { get; set; }
+        public int ProductId { get; set; }
+        public Produto Produto { get; set; } = null!;
+
+        public double Quantity { get; set; } // planejado
+        public double Produced { get; set; } // realizado
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+        public DateTime? FinishedAt { get; set; }
+    }
+}

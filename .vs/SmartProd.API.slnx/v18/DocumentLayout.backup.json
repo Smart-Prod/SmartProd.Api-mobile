@@ -3,20 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\controllers\\relatoriocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\serveces\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\serveces\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\serveces\\producaoordemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\serveces\\producaoordemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\controllers\\producaoordemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\controllers\\producaoordemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\dtos\\ordemproducaocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\dtos\\ordemproducaocreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\materiais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\materiais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\ordemproducao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\ordemproducao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\notafiscal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\notafiscalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\notafiscalitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\vendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|c:\\users\\pc-junio\\desktop\\smartprod.api-mobile\\smartprod.api.server\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85913C88-0780-11D5-D0E8-439AD85608D7}|SmartProd.API.Server\\SmartProd.API.Server.csproj|solutionrelative:smartprod.api.server\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Program.cs",
-              "RelativeDocumentMoniker": "SmartProd.API.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Program.cs",
-              "RelativeToolTip": "SmartProd.API.Server\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T03:38:20.235Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "SmartProd.API.Server\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "SmartProd.API.Server\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T03:34:45.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Movimentacao.cs",
-              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Movimentacao.cs",
-              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Movimentacao.cs",
-              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Movimentacao.cs",
-              "RelativeToolTip": "SmartProd.API.Server\\Models\\Movimentacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T14:24:41.97Z",
+              "WhenOpened": "2026-05-20T06:08:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProducaoOrdemController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\ProducaoOrdemController.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Controllers\\ProducaoOrdemController.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\ProducaoOrdemController.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Controllers\\ProducaoOrdemController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:56:21.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelatorioController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\RelatorioController.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Controllers\\RelatorioController.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\RelatorioController.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Controllers\\RelatorioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:04:35.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Materiais.cs",
-              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Materiais.cs",
-              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Materiais.cs",
-              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Materiais.cs",
-              "RelativeToolTip": "SmartProd.API.Server\\Models\\Materiais.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProducaoOrdemService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Serveces\\ProducaoOrdemService.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Serveces\\ProducaoOrdemService.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Serveces\\ProducaoOrdemService.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Serveces\\ProducaoOrdemService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T14:24:39.628Z"
+              "WhenOpened": "2026-05-20T05:55:28.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelatorioService.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Serveces\\RelatorioService.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Serveces\\RelatorioService.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Serveces\\RelatorioService.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Serveces\\RelatorioService.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAswHkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:08:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdemProducaoCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\DTOs\\OrdemProducaoCreateDto.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\DTOs\\OrdemProducaoCreateDto.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\DTOs\\OrdemProducaoCreateDto.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\DTOs\\OrdemProducaoCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:54:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:51:58.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdemProducao.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\OrdemProducao.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\OrdemProducao.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\OrdemProducao.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\OrdemProducao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:51:07.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotaFiscal.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFiscal.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\NotaFiscal.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFiscal.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\NotaFiscal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:50:26.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotaFiscalItem.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\NotaFiscalItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:49:57.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vendas.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Vendas.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Vendas.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Vendas.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\Vendas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:48:24.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Estoque.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Models\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Models\\Estoque.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Models\\Estoque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T05:47:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "SmartProd.API.Server\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Pc-Junio\\Desktop\\SmartProd.Api-mobile\\SmartProd.API.Server\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "SmartProd.API.Server\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T04:46:52.919Z",
+              "EditorCaption": ""
             }
           ]
         }

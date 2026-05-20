@@ -1,0 +1,18 @@
+﻿namespace SmartProd.API.Server.Models
+{
+    /// <summary>
+    /// Production Order Model
+    /// Represents a production order in the system
+    /// </summary>
+    public class OrdemProducao
+    {
+        public string Id { get; set; }
+        public string ProductId { get; set; }
+        public int Quantity { get; set; }
+        public ProductionOrderStatus Status { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime? StartedAt { get; set; }
+        public DateTime? CompletedAt { get; set; }
+        public int Produced { get; set; }
+    }
+}

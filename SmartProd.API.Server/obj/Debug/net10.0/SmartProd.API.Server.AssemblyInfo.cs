@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartProd.API.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b4c61d9833b9890f18695091af366daab1d6383")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c9c0cdcf33a4249362191b1ef9f186fad5d69ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartProd.API.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartProd.API.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
