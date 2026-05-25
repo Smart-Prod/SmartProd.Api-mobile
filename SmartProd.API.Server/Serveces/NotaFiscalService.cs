@@ -70,6 +70,10 @@ namespace SmartProd.API.Server.Serveces
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
+                // Validar campos obrigatórios
+                if (string.IsNullOrWhiteSpace(data.Number))
+                    throw new Exception("O número da nota é obrigatório.");
+
                 // Verifica unicidade do número da nota
                 if (await _context.NotasFiscais.AnyAsync(x => x.Number == data.Number))
                     throw new Exception("O número da nota já existe.");
@@ -100,7 +104,7 @@ namespace SmartProd.API.Server.Serveces
                 await transaction.CommitAsync();
 
                 // Inclui Items ao retornar
-                await _context.Entry(notaFiscal).Collection(n => n.Items!).LoadAsync();
+                await _context.Entry(notaFiscal).Collection(n => n.Items).LoadAsync();
 
                 return notaFiscal;
             }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartProd.API.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2fd55e129b43c60de8c0cd9cb73784460f6da22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f7d0f3976ce2a17d53a39d73dcf916e10d7a0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartProd.API.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartProd.API.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,5 @@
 <Solution>
-  <Project Path="../../source/repos/SmartProd-web/smartprod-web/Smartprod-web.esproj">
+  <Project Path="FrontWeb/frontweb.esproj">
     <Build />
     <Deploy />
   </Project>
